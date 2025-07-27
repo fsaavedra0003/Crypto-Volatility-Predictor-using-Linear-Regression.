@@ -28,7 +28,7 @@ The dataset includes:
 - `Volume`: Daily trade volume
 
 You can access the CSV used in this project here:  
-[🔗 Sample CSV File (BTCUSD)](https://raw.githubusercontent.com/selva86/datasets/master/BTCUSD.csv)
+[🔗 Sample CSV File (BTCUSD)](https://www.kaggle.com/datasets/kannapat/btc-usd-historical-price-2014-2024)
 
 ---
 
